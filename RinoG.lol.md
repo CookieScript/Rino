@@ -7,11 +7,13 @@ image
 
 # Payment Method💸
 
-# Pay With Robux
+Pay With Robux
 • 200
-# Pay WithBoosts
+
+Pay WithBoosts
 • 2
-# Pay With Nitro
+
+Pay With Nitro
 • any
 
 # Buy At Discord.gg/RinoGlol
